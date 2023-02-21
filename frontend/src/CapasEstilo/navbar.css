@@ -1,0 +1,11 @@
+.navbar_container{
+    display: flex;
+    gap: 1rem;
+}
+.link{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(192, 190, 190);
+    text-transform: uppercase;
+}
